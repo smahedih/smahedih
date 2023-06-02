@@ -4,7 +4,7 @@
 👋 Hi, I’m Mahedi Hasan. I'm currently working at Rockwell Automation as Software Engineer Intern.<br>👀 I have passion for technology. I'm interested in software development technology, especially languages in Golang, C and C++. I have also keen interest in AI and ML.<br>🌱 I’m currently learning about REST API, Kubernetes and micro services.<br>💞️ I’m looking to collaborate on various open source projects based on software development.<br> :boom: I am a professional WordPress website designer with over 8 years of experience.<br> :house: Website: https://www.hmahedi.com
 
 
-## 🌐 Socials:
+## 🌐 Social Media Profiles:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smahedih) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smahedih) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/smahedih) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@smahedih)
 
 # 💻 Tech Stack:
