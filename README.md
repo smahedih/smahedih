@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mahedi Hasan
 
 # 💫 About Me:
-👋 Hi, I’m Mahedi<br>👀 I’m interested in software development technology, especially languages in Golang, C and C++. I have also keen interest in AI and ML.<br>🌱 I’m currently learning about Kubernetes and micro services<br>💞️ I’m looking to collaborate on various open source projects based on software development.
+👋 Hi, I’m Mahedi<br>👀 I have passion for technology. I'm interested in software development technology, especially languages in Golang, C and C++. I have also keen interest in AI and ML.<br>🌱 I’m currently learning about REST API, Kubernetes and micro services.<br>💞️ I’m looking to collaborate on various open source projects based on software development.<br> :boom: I am a professional WordPress Website Designer with over 8 years of experience.
 
 
 ## 🌐 Socials:
