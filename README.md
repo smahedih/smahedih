@@ -1,6 +1,4 @@
-### Hi 👋, I'm ......
-<h1 align="center">Mahedi Hasan</h1>
-<h3 align="center">Software Engineer | Problem Solver | Tech Enthusiast</h3>
+## Hi 👋, I'm Mahedi Hasan!
 
 # 💫 About Me:
 👨🏽‍💻 I’m currently a CS Undergrad student at VSB - Technical University of Ostrava, Czech Republic.<br>👋 I'm currently working at Rockwell Automation as Software Engineer Intern, Prague, Czech Republic.<br>👀 I have passion for technology. I'm interested in software development technology, especially languages in Golang, C and C++. I have also keen interest in AI and ML.<br>🌱 I’m currently exploring REST API, Kubernetes and micro services.<br>💞️ I’m looking to collaborate on various open source projects based on software development.<br>💥 I am a professional WordPress website designer with over 8 years of experience.<br> 📫 Reach me at smahedih@gmail.com<br> 🏠 Website: https://www.hmahedi.com
