@@ -21,6 +21,19 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=smahedih&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!-- work experience section starts here  -->
+
+### 💼 &nbsp; Experiences
+
+| Position                                             | Workplace        | Duration            | Location               |
+| ---------------------------------------------------- | ---------------- | ------------------- | ---------------------- |
+| Software Engineer Intern | Rockwell Automation                          | Feb 2023 - Present  | Prague, Czech Republic |
+| Junior SharePoint Specialist and Web Designer Intern | Kyndryl          | September 2022 - October 2022 | Brno, Czech Republic |
+| Mainframe Intern        | Kyndryl                                       | May 2022 - Aug 2022 | Brno, Czech Republic |
+
+<br />
+<!-- work experience section ends here  -->
+
 ---
 [![](https://visitcount.itsvg.in/api?id=smahedih&icon=5&color=0)](https://visitcount.itsvg.in)
 
