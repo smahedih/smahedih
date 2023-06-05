@@ -1,10 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mahedi Hasan</h1>
+<h3 align="center">Software Engineer | Problem Solver | Tech Enthusiast</h3>
 
 # 💫 About Me:
-👨🏽‍💻 Hi, I’m Mahedi Hasan. I’m currently a CS Undergrad student at VSB - Technical University of Ostrava, Czech Republic.<br>👋 I'm currently working at Rockwell Automation as Software Engineer Intern, Prague, Czech Republic.<br>👀 I have passion for technology. I'm interested in software development technology, especially languages in Golang, C and C++. I have also keen interest in AI and ML.<br>🌱 I’m currently exploring REST API, Kubernetes and micro services.<br>💞️ I’m looking to collaborate on various open source projects based on software development.<br>💥 I am a professional WordPress website designer with over 8 years of experience.<br> 📫 Email me at smahedih@gmail.com<br> 🏠 Website: https://www.hmahedi.com
+👨🏽‍💻 I’m currently a CS Undergrad student at VSB - Technical University of Ostrava, Czech Republic.<br>👋 I'm currently working at Rockwell Automation as Software Engineer Intern, Prague, Czech Republic.<br>👀 I have passion for technology. I'm interested in software development technology, especially languages in Golang, C and C++. I have also keen interest in AI and ML.<br>🌱 I’m currently exploring REST API, Kubernetes and micro services.<br>💞️ I’m looking to collaborate on various open source projects based on software development.<br>💥 I am a professional WordPress website designer with over 8 years of experience.<br> 📫 Reach me at smahedih@gmail.com<br> 🏠 Website: https://www.hmahedi.com
 
 
-## 🌐 Follow Me:
+## 🌐 Get Connected:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smahedih) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@smahedih) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smahedih) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/smahedih)
 
 # 💻 Tech Stack:
