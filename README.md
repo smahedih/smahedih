@@ -25,7 +25,7 @@
 
 # 💼 &nbsp; Experiences
 
-| Position                                             | Institute        | Duration            | Location               |
+| Position                                             | Workplace        | Duration            | Location               |
 | ---------------------------------------------------- | ---------------- | ------------------- | ---------------------- |
 | Software Engineer Intern | Rockwell Automation                          | Feb 2023 - Present  | Prague, Czech Republic |
 | Junior SharePoint Specialist and Web Designer Intern | Kyndryl          | September 2022 - October 2022 | Brno, Czech Republic |
