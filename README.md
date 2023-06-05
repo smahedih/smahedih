@@ -23,7 +23,7 @@
 
 <!-- work experience section starts here  -->
 
-### 💼 &nbsp; Experiences
+# 💼 &nbsp; Experiences
 
 | Position                                             | Workplace        | Duration            | Location               |
 | ---------------------------------------------------- | ---------------- | ------------------- | ---------------------- |
