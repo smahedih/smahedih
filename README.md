@@ -34,6 +34,17 @@
 <br />
 <!-- work experience section ends here  -->
 
+<!-- work experience section starts here  -->
+
+# 💼 &nbsp; Education
+
+| Degree/Program                                       | Institute/University | Duration        | Location               |
+| ---------------------------------------------------- | ---------------- | ------------------- | ---------------------- |
+| Bachelor's in Computer Science | VSB - Technical University of Ostrava  | February 2023 - August 2023  | Prague, Czech Republic |
+
+<br />
+<!-- work experience section ends here  -->
+
 ---
 [![](https://visitcount.itsvg.in/api?id=smahedih&icon=5&color=0)](https://visitcount.itsvg.in)
 
