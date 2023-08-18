@@ -40,7 +40,7 @@
 
 | Degree/Program                                       | Institute/University | Duration        | Location               |
 | ---------------------------------------------------- | ---------------- | ------------------- | ---------------------- |
-| Bachelor's in Computer Science | VSB - Technical University of Ostrava  | February 2023 - August 2023  | Prague, Czech Republic |
+| Bachelor's in Computer Science | VSB - Technical University of Ostrava  | September 2021 - Present  | Ostrava, Czech Republic |
 
 <br />
 <!-- work experience section ends here  -->
