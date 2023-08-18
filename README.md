@@ -35,7 +35,7 @@
 <br />
 <!-- work experience section ends here  -->
 
-<!-- work experience section starts here  -->
+<!-- Education section starts here  -->
 
 # 🎓 &nbsp; Education
 
@@ -44,7 +44,7 @@
 | Bachelor's in Computer Science | VSB - Technical University of Ostrava  | September 2021 - Present  | Ostrava, Czech Republic |
 
 <br />
-<!-- work experience section ends here  -->
+<!-- Education section ends here  -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=smahedih&icon=5&color=0)](https://visitcount.itsvg.in)
