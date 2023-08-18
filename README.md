@@ -36,7 +36,7 @@
 
 <!-- work experience section starts here  -->
 
-# 💼 &nbsp; Education
+# 🎓 &nbsp; Education
 
 | Degree/Program                                       | Institute/University | Duration        | Location               |
 | ---------------------------------------------------- | ---------------- | ------------------- | ---------------------- |
