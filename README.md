@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Mahedi Hasan!
 
 # 💫 About Me:
-👨🏽‍💻 I’m currently a CS Undergrad student at VSB - Technical University of Ostrava, Czech Republic.<br>👋 I worked at several big-size IT and automation industries.<br>👀 I have passion for technology. I'm interested in software development technology, especially languages in Golang, C and C++. I have also keen interest in AI and ML.<br>🌱 I’m currently exploring REST API, Kubernetes and micro services.<br>💞️ I’m looking to collaborate on various open source projects based on software development.<br>💥 I am a professional WordPress website designer with over 8 years of experience.<br> 📫 Reach me at smahedih@gmail.com<br> 🏠 Website: https://www.hmahedi.com
+👨🏽‍💻 I’m currently an ICS Undergrad student at Ostbayerische Technische Hochschule (OTH) Regensburg, Germany.<br>👋 I worked at several big-size IT and automation industries.<br>👀 I have passion for technology. I'm interested in software development technology, especially languages in Golang, C and C++. I have also keen interest in AI and ML.<br>🌱 I’m currently exploring REST API, Kubernetes and micro services.<br>💞️ I’m looking to collaborate on various open source projects based on software development.<br>💥 I am a professional WordPress website designer with over 8 years of experience.<br> 📫 Reach me at smahedih@gmail.com<br> 🏠 Website: https://www.hmahedi.com
 
 
 ## 🌐 Get Connected:
@@ -30,7 +30,7 @@
 | Software Engineer Intern | Rockwell Automation                          | February 2023 - August 2023  | Prague, Czech Republic |
 | Junior SharePoint Specialist and Web Designer Intern | Kyndryl          | September 2022 - October 2022 | Brno, Czech Republic |
 | Mainframe Intern        | Kyndryl                                       | May 2022 - August 2022 | Brno, Czech Republic |
-| Founder                 | Bangladeshi Students Community in Europe      | May 2016 - Present     | Ostrava, Czech Republic |
+| Founder                 | Bangladeshi Students Community in Europe      | May 2016 - Present     |
 
 <br />
 <!-- work experience section ends here  -->
@@ -41,7 +41,7 @@
 
 | Degree/Program                                       | Institute/University | Duration        | Location               |
 | ---------------------------------------------------- | ---------------- | ------------------- | ---------------------- |
-| Bachelor's in Computer Science | VSB - Technical University of Ostrava  | September 2021 - Present  | Ostrava, Czech Republic |
+| Bachelor's in International Computer Science | Ostbayerische Technische Hochschule (OTH) Regensburg  | October 2023 - Present  | Regensburg, Germany |
 
 <br />
 <!-- Education section ends here  -->
