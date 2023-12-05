@@ -47,7 +47,7 @@
 <br />
 <!-- Education section ends here  -->
 
-![](https://komarev.com/ghpvc/?username=smahedih&color=blueviolet)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smahedih&label=Profile%20views&color=0e75b6&style=flat" alt="smahedih" /> </p>
 
 
 
