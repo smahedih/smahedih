@@ -46,7 +46,7 @@
 <br />
 <!-- Education section ends here  -->
 
----
+[![](https://visitcount.itsvg.in/api?id=smahedih&icon=5&color=0)](https://visitcount.itsvg.in) 
 
 
 
