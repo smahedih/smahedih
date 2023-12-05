@@ -45,7 +45,7 @@
 
 <br />
 <!-- Education section ends here  -->
-
+---
 ![](https://komarev.com/ghpvc/?username=smahedih&color=blueviolet)
 
 
