@@ -2,7 +2,7 @@
 <h3 align="center">ICS Sophomore | Tech Enthusiast | Problem Solver</h3>
 
 # 💫 About Me:
-👨🏽‍💻 I’m currently an ICS Undergrad student at Ostbayerische Technische Hochschule (OTH) Regensburg, Germany.<br> 🏢 I'm currently working at Vitesco Technologies as an Intern.<br>👋 I worked at several big-size IT and automation industries.<br>👀 I have passion for programming and problem solving. I'm interested in software development technology, especially languages in Python, Golang, C and C++. I have also keen interest in AI and ML.<br> 💞️ I’m looking to collaborate on various open source projects based on software development.<br>💥 I am a professional WordPress website designer with over 8 years of experience.<br> 📫 Reach me at smahedih@gmail.com<br> 🏠 Website: https://www.hmahedi.com
+👨🏽‍💻 I’m currently an ICS Undergrad student at Ostbayerische Technische Hochschule (OTH) Regensburg, Germany.<br> 🏢 I'm currently working at Schaeffler (Vitesco Technologies) as an Intern.<br>👋 I worked at several big-size IT and automation industries.<br>👀 I have passion for programming and problem solving. I'm interested in software development technology, especially languages in Python, Golang, C and C++. I have also keen interest in AI and ML.<br> 💞️ I’m looking to collaborate on various open source projects based on software development.<br>💥 I am a professional WordPress website designer with over 8 years of experience.<br> 📫 Reach me at smahedih@gmail.com<br> 🏠 Website: https://www.hmahedi.com
 
 
 ## 🌐 Get Connected:
@@ -29,7 +29,7 @@
 
 | Position                                             | Workplace        | Duration            | Location               |
 | ---------------------------------------------------- | ---------------- | ------------------- | ---------------------- |
-| Technical Regulations Research Intern | Vitesco Technologies                          | October 2024 - Present  | Regensburg, Germany |
+| Technical Regulations Research Intern | Schaeffler                          | October 2024 - Present  | Regensburg, Germany |
 | Software Engineer Intern | Rockwell Automation                          | February 2023 - August 2023  | Prague, Czech Republic |
 | Junior SharePoint Specialist and Web Designer Intern | Kyndryl          | September 2022 - October 2022 | Brno, Czech Republic |
 | Mainframe Intern        | Kyndryl                                       | May 2022 - August 2022 | Brno, Czech Republic |
