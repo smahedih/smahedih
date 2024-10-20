@@ -49,6 +49,16 @@
 <br />
 <!-- Education section ends here  -->
 
+<!-- Achievements section starts here  -->
+
+# 🏆 Achievements and Awards
+
+✅ DAAD STIBET Scholarship <br>
+✅ e-fellows.net Scholarship
+
+<br />
+<!-- Achievements section ends here  -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smahedih&label=Profile%20views&color=0e75b6&style=flat" alt="smahedih" /> </p>
 
 
