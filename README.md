@@ -51,7 +51,7 @@
 
 <!-- Achievements section starts here  -->
 
-# ✨ Achievements and Awards
+# 🏅 Achievements and Awards
 
 ✅ DAAD STIBET Scholarship <br>
 ✅ e-fellows.net Scholarship
