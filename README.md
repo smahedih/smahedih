@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahedi Hasan</h1>
-<h3 align="center">ICS Sophomore | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center">Computer Science Undergrad | Tech Enthusiast | Problem Solver</h3>
 
 # 💫 About Me:
 👨🏽‍💻 I’m currently an ICS Undergrad student at Ostbayerische Technische Hochschule (OTH) Regensburg, Germany.<br> 👋 I worked at several big-size IT and automation industries such as Rockwell Automation, Schaeffler and Kyndryl.<br>👀 I have passion for programming and problem solving. I'm interested in software development technology, especially languages in Python, Golang, C and C++. I have also keen interest in Cyber Security, Cloud Computing, Data, AI and ML.<br> 💞️ I’m looking to collaborate on various open source projects based on software development.<br>💥 I am a professional WordPress website designer with over 8 years of experience.<br> 📫 Reach me at smahedih@gmail.com<br> 🏠 Website: https://www.hmahedi.com
