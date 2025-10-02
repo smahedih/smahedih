@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahedi Hasan</h1>
- <!-- Animated typing effect - alternating between two messages -->
 <h4 align="center">Computer Science Undergrad | Tech Enthusiast | Problem Solver</h4>
 
+ <!-- Animated wave -->
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=header&text=&fontSize=60" />
+</p>
+  
 # 💫 About Me:
 👨🏽‍💻 I’m currently an ICS Undergrad student at Ostbayerische Technische Hochschule (OTH) Regensburg, Germany.<br> 👋 I am currently working at KONUX as Working Student - IT & Security and previously worked at several big-size IT and automation industries such as Rockwell Automation, Schaeffler and Kyndryl.<br>👀 I’m passionate about solving real-world problems and exploring areas like cybersecurity, software development, AI/ML, cloud computing, and data systems.<br> 💞️ I’m actively seeking opportunities in Cybersecurity, Software Development, Cloud, and Product Management — and always open to collaborating on impactful projects and open-source work.<br>💥 I am a professional WordPress website designer with over 8 years of experience.<br> 📫 Reach me at smahedih@gmail.com<br> 🏠 Website: https://www.hmahedi.com
 
