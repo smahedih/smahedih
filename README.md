@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahedi Hasan</h1>
  <!-- Animated typing effect - alternating between two messages -->
-<img src="https://readme-typing-svg.demolab.com/?lines=CS%20Undergrad%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&font=Fira%20Code&center=true&width=1000&height=50&duration=3000&pause=1500&color=6366F1" />
+<img src="https://readme-typing-svg.demolab.com/?lines=CS%20Undergrad%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&font=Fira%20Code&center=true&width=1000&height=100&duration=3000&pause=1500&color=6366F1" />
 
 # 💫 About Me:
 👨🏽‍💻 I’m currently an ICS Undergrad student at Ostbayerische Technische Hochschule (OTH) Regensburg, Germany.<br> 👋 I am currently working at KONUX as Working Student - IT & Security and previously worked at several big-size IT and automation industries such as Rockwell Automation, Schaeffler and Kyndryl.<br>👀 I’m passionate about solving real-world problems and exploring areas like cybersecurity, software development, AI/ML, cloud computing, and data systems.<br> 💞️ I’m actively seeking opportunities in Cybersecurity, Software Development, Cloud, and Product Management — and always open to collaborating on impactful projects and open-source work.<br>💥 I am a professional WordPress website designer with over 8 years of experience.<br> 📫 Reach me at smahedih@gmail.com<br> 🏠 Website: https://www.hmahedi.com
