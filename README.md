@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Undergrad%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&font=Fira%20Code&center=true&width=1000&height=50&size=24&duration=3000&pause=1500&color=6366F1" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Undergrad%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&font=Fira%20Code&center=true&vCenter=true&width=1250&height=70&size=28&duration=3000&pause=1500&color=6366F1" />
-</p>
-
  <!-- Animated wave -->
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=header&text=&fontSize=60" />
