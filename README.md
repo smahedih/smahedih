@@ -43,7 +43,7 @@
 | Technical Regulations Research Intern | Schaeffler                      | October 2024 - March 2025  | Regensburg, Germany |
 | Software Engineer Intern | Rockwell Automation                          | February 2023 - August 2023  | Prague, Czech Republic |
 | Junior SharePoint Specialist and Web Designer Intern | Kyndryl          | September 2022 - October 2022 | Brno, Czech Republic |
-| Founder                 | Bangladeshi Students Community in Europe      | May 2016 - Present     |
+| Founder                 | Bangladeshi Students Community in Europe      | May 2016 - Present     | Remote/Virtual
 
 <br />
 <!-- work experience section ends here  -->
