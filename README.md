@@ -15,7 +15,7 @@
 
 📧 Reach me at smahedih@gmail.com<br>
 
-🌐 Visit My Website: https://www.hmahedi.com
+🧑‍💻 Visit My Website: https://www.hmahedi.com
 
 ## 🌐 Get Connected:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smahedih) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@smahedih)
