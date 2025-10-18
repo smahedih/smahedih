@@ -11,12 +11,11 @@
 </p>
   
 # 💫 About Me:
-👨🏽‍💻 I’m currently an International Computer Science Undergrad student at Ostbayerische Technische Hochschule (OTH) Regensburg, Germany.<br> 👋 I am currently working at KONUX as Working Student - IT & Security and previously worked at several big-size IT and automation industries such as Rockwell Automation, Schaeffler and Kyndryl.<br> 💞️ I’m passionate about solving real-world problems and exploring areas like cybersecurity, software development, AI/ML, cloud computing, and DevOps.<br> 👀 I’m actively seeking opportunities in Cybersecurity, Software Development, Cloud, DevOps and Product Management — and always open to collaborating on impactful projects and open-source work.<br> 💥 I am a professional WordPress website designer with over 8 years of experience.<br><br> 
+👨🏽‍💻 I’m currently an International Computer Science Undergrad student at Ostbayerische Technische Hochschule (OTH) Regensburg, Germany.<br> 👋 I am currently working at KONUX as Working Student - IT & Security and previously worked at several big-size IT and automation industries such as Rockwell Automation, Schaeffler and Kyndryl.<br> 💞️ I’m passionate about solving real-world problems and exploring areas like cybersecurity, software development, AI/ML, cloud computing, and DevOps.<br> 👀 I’m actively seeking opportunities in Cybersecurity, Software Development, Cloud, DevOps and Product Management — and always open to collaborating on impactful projects and open-source work.<br> 💥 I am a professional WordPress website designer with over 8 years of experience.<br> 
+
 📧 Reach me at smahedih@gmail.com<br>
 
-<a href="https://www.hmahedi.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Visit%20My%20Personal%20Website-253858?style=for-the-badge&logo=readme" alt="Visit My Personal Website" />
-</a>
+🌐 Visit My Website: https://www.hmahedi.com
 
 ## 🌐 Get Connected:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smahedih) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@smahedih)
