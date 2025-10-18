@@ -2,7 +2,7 @@
 
 <!-- Animated typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Undergrad%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&font=Fira%20Code&center=true&width=1000&height=50&size=24&duration=3000&pause=1500&color=6366F1" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Undergrad%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&font=Fira%20Code&center=true&width=1100&height=50&size=24&duration=3000&pause=1500&color=6366F1" />
 </p>
 
  <!-- Animated wave -->
