@@ -42,7 +42,7 @@
 
 | Position                                             | Workplace        | Duration            | Location               |
 | ---------------------------------------------------- | ---------------- | ------------------- | ---------------------- |
-| Working Student - Content Migration (Product Management) | Virtual Identity                      | February 2026 - Present  | Freiburg, Germany (Remote) |
+| Working Student - Content Migration (Product Management) | Virtual Identity                      | February 2026 - February 2026  | Freiburg, Germany (Remote) |
 | Working Student - IT (Support & Security) | KONUX                      | June 2025 - December 2025  | Munich, Germany |
 | Technical Regulations Research Intern | Schaeffler                      | October 2024 - March 2025  | Regensburg, Germany |
 | Software Engineer Intern | Rockwell Automation                          | February 2023 - August 2023  | Prague, Czech Republic |
