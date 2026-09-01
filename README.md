@@ -42,7 +42,7 @@
 
 | Position                                             | Workplace        | Duration            | Location               |
 | ---------------------------------------------------- | ---------------- | ------------------- | ---------------------- |
-| Working Student – IT Support & Digital Operations Specialist | Silvamed GmbH                  | July 2026 - Present  | Landshut, Germany |
+| Working Student – IT Support & Digital Operations Specialist | Silvamed GmbH (Dr. Dost)                  | July 2026 - Present  | Landshut, Germany |
 | Working Student - Content Migration (Product Management) | Virtual Identity                      | February 2026 - February 2026  | Freiburg, Germany (Remote) |
 | Working Student - IT (Support & Security) | KONUX                      | June 2025 - December 2025  | Munich, Germany |
 | Technical Regulations Research Intern | Schaeffler                      | October 2024 - March 2025  | Regensburg, Germany |
