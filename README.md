@@ -2,7 +2,7 @@
 
 <!-- Animated typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Undergrad%20%7C%20Tech%20Nerd%20%7C%20Problem%20Solver&font=Fira%20Code&center=true&width=1100&height=50&size=24&duration=3000&pause=1500&color=6366F1" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering%20Undergrad%20%7C%20Tech%20Nerd%20%7C%20Problem%20Solver&font=Fira%20Code&center=true&width=1100&height=50&size=24&duration=3000&pause=1500&color=6366F1" />
 </p>
 
  <!-- Animated wave -->
@@ -11,7 +11,7 @@
 </p>
   
 # 💫 About Me:
-👨🏽‍💻 I’m currently an International Computer Science Undergrad student at Ostbayerische Technische Hochschule (OTH) Regensburg, Germany.<br> 👋 Previously, I worked at several big-size IT and automation industries such as kONUX, Virtual Identity, Rockwell Automation, Schaeffler and Kyndryl.<br> 💞️ I’m passionate about solving real-world problems and exploring areas like cybersecurity, software development, AI/ML, cloud computing, DevOps and product management.<br> 👀 I’m actively seeking opportunities in Cybersecurity, Software Development, Cloud, DevOps and Product Management — and always open to collaborating on impactful projects and open-source work.<br> 💥 I am a professional WordPress website designer with over 8 years of experience.<br> 
+👨🏽‍💻 I’m currently an Engineering Undergrad student at Hochschule Landshut, Germany.<br> 👋 Previously, I worked at several big-size IT and automation industries such as kONUX, Virtual Identity, Rockwell Automation, Schaeffler and Kyndryl.<br> 💞️ I’m passionate about solving real-world problems and exploring areas like cybersecurity, software development, AI/ML, cloud technology and product management.<br> 👀 I’m actively seeking opportunities in Cybersecurity, Software Development, Cloud and Technical Product/Project Management — and always open to collaborating on impactful projects and open-source work.<br> 💥 I am a professional WordPress website designer with over 8 years of experience.<br> 
 
 📧 Reach me: smahedih@gmail.com<br>
 
@@ -59,7 +59,7 @@
 
 | Degree/Program                                       | Institute/University | Duration        | Location               |
 | ---------------------------------------------------- | ---------------- | ------------------- | ---------------------- |
-| Bachelor's in International Computer Science | Ostbayerische Technische Hochschule (OTH) Regensburg  | October 2023 - Present  | Regensburg, Germany |
+| Bachelor of Engineering in Sustainable Industrial Operations and Business | Hochschule Landshut  | October 2026 - Present  | Landshut, Germany |
 
 <br />
 <!-- Education section ends here  -->
